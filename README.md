@@ -6,8 +6,6 @@ information that is contained on the SAF-T (standard audit file for tax purposes
 regarding sales orders, purchases, inventory, and accounts payable, using a dashboard to
 provide high level/graphical information with drill down functionalities
 
-## Docs
-You can read our presentation [here](https://github.com/motapinto/company-dashboard/blob/main/docs/final-report.pdf)!
 
 ## Gallery
 <p>
